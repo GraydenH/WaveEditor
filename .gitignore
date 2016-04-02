@@ -17,6 +17,13 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+Record.tlog/
+Record1/Debug
+Record1/Release
+Debug/
+WaveEditor/bin
+WaveEditor/obj
+
 # =========================
 # Operating System Files
 # =========================
